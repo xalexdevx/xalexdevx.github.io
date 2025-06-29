@@ -29,7 +29,7 @@ github:
   username: github_xalexdevx# change to your GitHub username
 
 twitter:
-  username: twitter_xalexdevx # change to your Twitter username
+  username: xalexdevx # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,6 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/xalexdevx # change to your Twitter homepage
     - https://github.com/xalexdevx # change to your GitHub homepage
+    - https://www.linkedin.com/in/mark-mozheiko-009681166/ # change to your LinkedIn profile link
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

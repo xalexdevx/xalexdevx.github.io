@@ -6,7 +6,7 @@ categories: [Projects, Ozafu]
 tags: [Python, Data Analytics, Web Development]
 ---
 
-# What is Ozafu?
+## What is Ozafu?
 
 I started working on **Ozafu** after struggling with poor blood circulation in my hamstrings during long working hours. While sitting on a good chair kept me comfortable initially, my productivity steadily declined as time went on. The stiffness in my legs—especially in the hamstrings—made it increasingly difficult to stay focused.
 
@@ -19,7 +19,7 @@ Just because only a minority of people work while sitting on the floor doesn't m
 
 ---
 
-# Developing Ozafu
+## Developing Ozafu
 
 The very first prototype of Ozafu was simple: I found a second-hand ergonomic chair and removed its legs. I then glued together several parts, smoothed out the sharp edges, and began working on a way to support both **laptop and desktop use**.
 
@@ -29,7 +29,7 @@ The hardest part is creating a stable and adjustable work surface that can adapt
 
 More updates coming as the project evolves!
 
-# Initial vision 
+## Initial vision 
 
 ADD PICTURE HERE LATER
 

@@ -4,7 +4,6 @@ title: "How Much IT Consultants Charge"
 date: 2025-06-27
 categories: [IT Consulting, Pricing]
 tags: [consulting, rates, IT]
-author: "Mark"
 ---
 
 ## Consultant Pricing and Affordable Alternatives
@@ -25,7 +24,7 @@ Because of this approach, I can offer significantly lower rates without compromi
 
 ## Interested?
 
-📧 **Email**: [mark.mozheiko@aalto.fi](mailto:mark.mozheiko@aalto.fi)  
+📧 **Email**: [alexander.mozheiko@gmail.com](mailto:mark.mozheiko@aalto.fi)  
 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mark-mozheiko-009681166/) <!-- Replace with your actual profile URL -->
 
 Let’s schedule a meeting or discuss any questions you may have!
