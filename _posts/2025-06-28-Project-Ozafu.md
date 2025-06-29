@@ -6,13 +6,31 @@ categories: [Projects, Ozafu]
 tags: [Python, Data Analytics, Web Development]
 ---
 
-# What is Ozafu ? ? ? 
+# What is Ozafu?
 
-I decided to start working on Ozafu after continously strugling with my hamstrings poor blood circulation that happens after long working hours. Sitting on good chair keeps me comfertable, but my productivity seemed to continiously reduce after longer hours of working because of stiff feeling in my hamstrings. Even though I have an ergonomical chair and adjustable table, they still can completely reduce this. Therefore, I wanted to create a project for myself that would address this issue, by creating a chair where I can sit in dozens of different positions, and most importantly, my legs can always be extended. Ozafu is for those who love sitting or working on floor or like to sit in Zafus. 
-
-Something that is not commonly used doesnt mean that it is straing and unconvenient idea. 
+I started working on **Ozafu** after struggling with poor blood circulation in my hamstrings during long working hours. While sitting on a good chair kept me comfortable initially, my productivity steadily declined as time went on. The stiffness in my legs—especially in the hamstrings—made it increasingly difficult to stay focused.
 
 
-# Developing Ozafu 
+Even though I use an ergonomic chair and an adjustable table, they don’t completely solve the issue. That’s why I decided to create a project for myself—**a chair that allows me to sit in dozens of different positions**, with one essential feature: **my legs can always be extended**.
 
-The very first prototype of Ozafu is just simply finding a nice ergonomical chair from second hand, and remove the legs from it. Gluing multiple parts together, fining the sharp corners and adding a possibility to work on laptop and desktop if willing to. The last part is the hardest, since it needs to be robust, and positions could be changed. 
+Ozafu is designed for people who enjoy sitting or working on the floor, or who are fans of **Zafu-style seating**, but want more comfort and flexibility.
+
+Just because only a minority of people work while sitting on the floor doesn't mean it's a strange or inconvenient idea. In fact, one of the biggest advantages of floor sitting is the ability to **change positions more frequently**, which is beneficial for posture and long hours of remote work.According to [CNN](https://edition.cnn.com/2020/07/29/health/floor-sitting-benefits-wellness-partner/index.html), regularly shifting your position while sitting on the floor may help with mobility, flexibility, and long-term joint health.
+
+---
+
+# Developing Ozafu
+
+The very first prototype of Ozafu was simple: I found a second-hand ergonomic chair and removed its legs. I then glued together several parts, smoothed out the sharp edges, and began working on a way to support both **laptop and desktop use**.
+
+The hardest part is creating a stable and adjustable work surface that can adapt to different sitting positions while remaining robust and reliable.
+
+---
+
+More updates coming as the project evolves!
+
+# Initial vision 
+
+ADD PICTURE HERE LATER
+
+

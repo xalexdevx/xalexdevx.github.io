@@ -7,6 +7,13 @@ Categories: [Restaurants and analytics]
 tags: [Restaurants and analytics]
 ---
 
-After working for multiple years in SME and large international companies in different industries and teams, they all use vast amount of capital to invest in analytics. Without analytics and insightfull business intelligence solutions decision makers will most likely make poorer decisions, which might decrease the growth of a company. Therefore, it is essential that all companies including small restaurants should consider utilizing power tools that can explain what dishes sell the best during what season, what prices could be increased or decreased if their margins are not suitable. 
+After working for several years in both SMEs and large international companies across different industries and teams, I’ve seen how much capital is invested into analytics. The reason is clear: without insightful **Business Intelligence** solutions, decision-makers are more likely to make poor choices that can hinder a company’s growth.
 
-To tackle these problems, I could hapily provide mine affordable expertise for small restaurants to increase the productivity. 
+That’s why it is essential for **all companies**, including small restaurants, to adopt data-driven tools. These tools can help answer critical questions such as:
+
+- Which dishes sell best during specific seasons?
+- Which menu items could be repriced based on margin performance?
+- What are the peak hours or days for sales?
+- How do supply costs and waste levels affect profitability?
+
+To help address these challenges, I’m happy to offer my **affordable expertise** in analytics and automation, specifically tailored for small restaurants aiming to improve their productivity and profitability.
