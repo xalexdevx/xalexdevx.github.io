@@ -16,7 +16,8 @@ tags: [books, links, courses, knowledge]
 - 
 
 ## Fav blogs 
-- 
+-  https://www.paulgraham.com/articles.html
+> Paul Graham's essays are among the best ones
 - 
 - 
 - 
