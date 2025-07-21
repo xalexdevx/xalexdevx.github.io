@@ -6,7 +6,7 @@ categories: [Business intelligence and analytics]
 Categories: [Restaurants and analytics]
 tags: [Restaurants and analytics]
 ---
-
+## Analytics
 After working for several years in both SMEs and large international companies across different industries and teams, I’ve seen how much capital is invested into analytics. The reason is clear: without insightful **Business Intelligence** solutions, decision-makers are more likely to make poor choices that can hinder a company’s growth.
 
 That’s why it is essential for **all companies**, including small restaurants, to adopt data-driven tools. These tools can help answer critical questions such as:
