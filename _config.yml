@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Mark Alexander Mozheiko
-  email: alexander.mozheiko@gmail.comß # change to your email address
+  email: alexander.mozheiko@gmail.com # removed stray character
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/xalexdevx # change to your Twitter homepage
