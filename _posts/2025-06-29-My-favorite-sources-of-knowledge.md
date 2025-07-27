@@ -3,7 +3,7 @@ layout: post
 title: "My favorite sources of knowledge"
 date: 2025-06-29
 categories: [Knowledge]
-tags: [books, links, courses, knowledge]
+tags: [books links courses knowledge]
 ---
 
 ## Fav books
@@ -13,7 +13,7 @@ Great book about preferance falsification
 By far my favorite childhood favorite book about unfairness and revenge 
 
 ## Fav blogs 
--  https://www.paulgraham.com/articles.html
+https:  //www. paulgraham. com/articles. html
 Paul Graham's essays are among the best ones
 
 
