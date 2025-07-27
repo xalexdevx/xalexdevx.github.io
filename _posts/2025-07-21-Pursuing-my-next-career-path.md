@@ -22,3 +22,5 @@ These are relatively simple things that I want to become great at, and I will de
 - Document everyday progress through photos and videos.
 
 In simple terms, I want to become quite good at coding, gain a solid understanding of various financial instruments, develop strong storytelling and communication skills, adopt an entrepreneurial mindset that values fast, consistent delivery over perfection, and continue improving my photography as a creative hobby.
+
+. . .
