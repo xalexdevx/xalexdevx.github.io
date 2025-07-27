@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "Restaurants and analytics"
+title: "Restaurants and analytics"
 Date: 2025-06-28
 categories: [Business intelligence and analytics]
 Categories: [Restaurants and analytics]
